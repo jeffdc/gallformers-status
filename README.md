@@ -6,11 +6,11 @@ Uptime monitoring and status page for [gallformers.org](https://gallformers.org)
 
 ## Monitored Endpoints
 
-| Endpoint | URL |
-|----------|-----|
-| Gallformers V2 API | https://gallformers.fly.dev/health |
-| Gallformers V2 Site | https://gallformers.fly.dev |
-| Gallformers (Production) | https://gallformers.org |
+| Endpoint                 | URL                                |
+| ------------------------ | ---------------------------------- |
+| Gallformers V2 API       | https://gallformers.fly.dev/health |
+| Gallformers V2 Site      | https://gallformers.fly.dev        |
+| Gallformers (Production) | https://gallformers.org            |
 
 ## How It Works
 
@@ -28,6 +28,7 @@ Edit `.upptimerc.yml` to add or modify monitored endpoints.
 ## Documentation
 
 See the [status page documentation](https://github.com/jeffdc/gallformers/blob/main/v2/docs/status-page.md) in the main repo for:
+
 - How to manage incidents
 - Adding new endpoints
 - Troubleshooting
