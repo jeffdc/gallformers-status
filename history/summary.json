@@ -4,19 +4,19 @@
     "url": "https://gallformers.fly.dev/health",
     "icon": "https://icons.duckduckgo.com/ip3/gallformers.fly.dev.ico",
     "slug": "gallformers-v2-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 151,
-    "timeDay": 92,
-    "timeWeek": 117,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 630,
+    "timeDay": 8771,
+    "timeWeek": 1347,
+    "timeMonth": 630,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2026-01-24": 2
+      "2026-01-24": 57
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gallformers.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/gallformers.fly.dev.ico",
     "slug": "gallformers-v2-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 42,
-    "timeWeek": 73,
-    "timeMonth": 59,
-    "timeYear": 59,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 60,
+    "timeDay": 91,
+    "timeWeek": 53,
+    "timeMonth": 60,
+    "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-01-24": 0
+      "2026-01-24": 56
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 318,
-    "timeWeek": 345,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "time": 355,
+    "timeDay": 331,
+    "timeWeek": 336,
+    "timeMonth": 355,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   }
 ]
