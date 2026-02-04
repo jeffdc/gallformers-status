@@ -11,6 +11,10 @@ sites:
     url: https://gallformers.fly.dev
     expectedStatusCodes:
       - 200
+  - name: Gallformers CloudFront CDN
+    url: https://dfd18lb16qtjl.cloudfront.net/health
+    expectedStatusCodes:
+      - 200
   - name: Gallformers (Production)
     url: https://gallformers.org
     expectedStatusCodes:
