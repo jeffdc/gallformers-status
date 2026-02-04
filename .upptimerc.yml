@@ -33,6 +33,11 @@ status-website:
       href: https://gallformers.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  announcementBar:
+    text: "🔧 Scheduled Maintenance: Feb 4, 10 AM-12 PM ET. Brief downtime expected during infrastructure migration."
+    link: https://github.com/jeffdc/gallformers-status/issues/7
+    backgroundColor: "#ffd700"
+    textColor: "#000000"
 
 # Check every 5 minutes
 workflowSchedule:
